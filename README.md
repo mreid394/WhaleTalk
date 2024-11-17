@@ -1,6 +1,6 @@
 # WhaleTalk
 
-Take a phrase like "Hello, I am a Whale!" and translate it into its “whale talk” equivalent: .
+Take a phrase like "Hello, I am a Whale!" and translate it into its “whale talk” equivalent: "EEOAAAEE".
 
 There are a few simple rules for translating text to whale language:
 
